@@ -1,5 +1,5 @@
 fn main() {
-    let test: String = fizz_buzz(10);
+    let test: String = fizz_buzz(31);
     println!("{}", test);
 }
 
